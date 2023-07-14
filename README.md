@@ -6,9 +6,8 @@
     Gmail :- anshuman.dwivedi07@gmail.com
     LinkedIn :- www.linkedin.com/in/anshuman-dwivedi
     
-    
     Thank you for visiting.
-  
+  Note - Code commited are created in different repository before. This is why I have given same commit comments for each projects when moved to this repo.
 <!---
 anshumandw/anshumandw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
